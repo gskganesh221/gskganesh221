@@ -1,16 +1,15 @@
-## Hi there 👋
+---                                                                                                                                                                        ---
 
-<!--
-**gskganesh221/gskganesh221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I’m Ch GSK Ganesh, a passionate developer specializing in **HTML**, **CSS**, and **Python**. I love building responsive and user-friendly websites, and I'm always eager to learn new technologies.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**  
+- **Languages:** Python, HTML, CSS  
+- **Frameworks:** Bootstrap  
+- **Tools:** GitHub, Linux, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning more about **Core Python** and exploring **full-stack development**.
+
+📫 Feel free to connect with me: [LinkedIn](https://www.linkedin.com/in/g-s-k-ganesh-chadaram-374b66271/) or gskganesh221@gmail.com.
+
+---                                                                                                                                                                       ---
+
