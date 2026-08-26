@@ -3,7 +3,7 @@
 👋 Hi there! I’m Ch GSK Ganesh, a passionate developer specializing in **HTML**, **CSS**, and **Python**. I love building responsive and user-friendly websites, and I'm always eager to learn new technologies.
 
 🔧 **Tech Stack:**  
-- **Languages:** Python, HTML, CSS  
+- **Languages:** HTML, CSS, Python.
 - **Frameworks:** Bootstrap  
 - **Tools:** GitHub, Linux, Windows
 
